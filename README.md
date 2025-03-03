@@ -1,4 +1,4 @@
-[![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=spani73)](https://github.com/anuraghazra/github-readme-stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+[![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=spani73)](https://github.com/anuraghazra/github-readme-stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark))
 
 <!--
 **spani73/spani73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
